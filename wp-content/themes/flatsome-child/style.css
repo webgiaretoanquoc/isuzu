@@ -1,0 +1,478 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+
+.header-button-1 .header-button a{border-radius:6px; 
+	background-image: url(../../uploads/2019/10/yeu-cau-bao-gia-icon.png); background-repeat:no-repeat;     padding: 8px 14px;
+	background-position-y: center;
+	padding-left: 48px;
+	background-position-x: 7px; 
+
+}
+.slider-nav-light .flickity-prev-next-button svg, .slider-nav-light .flickity-prev-next-button .arrow{    background: black;}
+.banner-section img{border-radius: 6px;border-bottom:5px solid gray}
+.banner-section img:hover{border-bottom:5px solid red}
+.header-main .nav > li a:hover{background-color:#d20808; border-radius:6px}
+.single-product a.devvn_buy_now_style{display:none}
+.single-product .block-nut-dat-mua a.devvn_buy_now_style{margin-bottom:0; display:inline-block !important; background:#d20808}  
+.header-main .nav > li{margin:0}
+.header-main .nav > li > a{padding-left:12px;padding-right:12px}.single-product .nut-goi-dien:hover{background:#1e88e5;}.single-product .block-nut-dat-mua a.devvn_buy_now_style:hover{background:#e80000}
+.single-product .product-info .product-title{    font-size: 21px;}.product-info .breadcrumbs {
+	font-size: 15px;
+	text-transform: none;
+	letter-spacing: 0;
+	margin-bottom: 10px;
+}
+.box-tu-van ul, .box-dat-mua ul{margin-bottom:0}
+.box-tu-van ul li, .box-dat-mua ul li{background: url(../../uploads/2019/10/checked.png);
+	background-repeat: no-repeat;
+	list-style: none;
+	font-size: 14px;
+	margin-left: 0;
+	padding-left: 23px;
+	background-position-y: 4px;
+	margin-bottom: 8px;
+	line-height: 18px;}
+.box-tu-van, .box-dat-mua{display: block;
+	margin-top: 15px;}
+.single-product .thong-so-ky-thuat{margin-bottom:20px; background: #24d4cd3d;
+	border: 2px dashed #ea1244;
+	border-radius: 3px;
+	padding: 10px;
+	font-size: 14px;
+}
+.single-product .thong-so-ky-thuat ul li .label{font-weight:bold; color:black}
+.single-product .thong-so-ky-thuat ul li .value{color:#ea0000; font-weight:bold}
+.single-product .thong-so-ky-thuat ul li{margin-bottom: 0;}
+.single-product .thong-so-ky-thuat ul{margin-bottom:0}
+.thong-so-ky-thuat h3{font-size: 16px;
+	margin-bottom: 0;
+	color: #0078d8;}
+.block-nut-dat-mua .right{width:50%; float:left; display:inline-block; padding-left:10px}
+.single-product .nut-goi-dien{    background: #2196f3;
+	padding: 9px 6px;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	line-height: 20px;}
+.block-nut-dat-mua .left{width:50%; float:left; display:inline-block; padding-right:10px}
+.block-nut-dat-mua a .title{font-size: 18px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+	display: block;}
+.block-nut-dat-mua a .des{font-size:15px; color:white}
+.single-product .product_meta {
+	font-size: 14px;
+	margin-bottom: 10px;margin-top: -10px;
+}
+.block-nut-dat-mua {display: inline-block;
+	width: 100%;
+	clear: both;}
+.header-button-1 .header-button a:hover{box-shadow:2px 2px 10px black;background-color:#d20808}
+.banner-section .col{padding-bottom:0}
+.thong-tin-khuyen-mai{    display: inline-block;
+	width: 100%;
+	clear: both;}
+.thong-tin-khuyen-mai .left{width: 50%;
+	float: left;
+	display: inline-block;}
+.thong-tin-khuyen-mai .right{width: 50%;
+	float: right;
+	display: inline-block;}
+.thong-tin-khuyen-mai ul li.vay-von{font-weight:bold}
+.thong-tin-khuyen-mai .right ul li .so-hotline{font-weight:bold; color:red}
+.thong-tin-khuyen-mai .left ul li, .thong-tin-khuyen-mai .right ul li{font-size: 15px;list-style: none;
+	background: url(../../uploads/2019/10/checked-1.png);
+	background-repeat: no-repeat;
+	margin-left: 0 !important;
+	background-size: 20px;
+	background-position-y: 13px;
+	background-position-x: 10px;
+	padding-left: 40px !important;
+	margin-bottom: 0;
+	border-bottom: 1px solid #BBDEFB;
+	padding: 10px;}.product-footer .woocommerce-tabs {
+		padding: 0;
+		border-top: 0;
+}.product-main {
+	padding: 30px 0 0 0;
+}
+.thong-tin-khuyen-mai .left ul li:nth-child(even), .thong-tin-khuyen-mai .right ul li:nth-child(even){background-color:#f7f7f7}
+.thong-tin-khuyen-mai h3{margin-bottom: 0;
+	border: 1px solid #bbdefb;
+	text-align: center;
+	font-size: 17px;
+	padding: 8px;
+	background: #E3F2FD;
+	color: #1E88E5;}
+.thong-tin-khuyen-mai ul{    border: 1px solid #bbdefb;}
+.single-product .accordion-inner {
+	padding: 0;
+	display: none;
+}
+.form-khuyen-mai h3{    text-align: center;
+	color: #d70000;
+	text-transform: uppercase;
+	font-size: 25px; margin-bottom:0}
+.form-khuyen-mai .row-info .left{width:50%; padding-right:6px; display:inline-block; float:left}
+.form-khuyen-mai .row-info .right{width:50%; padding-left:6px; display:inline-block; float:right}
+.form-khuyen-mai p{text-align:center}
+.form-khuyen-mai input{margin-bottom:5px; border-radius:5px; box-shadow:none; margin-right: 0 !important;}
+.section-form .col{padding-bottom:0}.product-info {
+	padding-top: 0;
+}
+.single-product .trang-bi-co-ban{display:block; margin-top:30px}
+.trang-bi-co-ban h3, .thong-tin-chi-tiet h3{text-transform:uppercase; }
+.trang-bi-co-ban ul{margin-bottom:0; display:inline-block; clear:both; width:100%}
+.thong-tin-chi-tiet{margin-top:0px; display:block}
+.trang-bi-co-ban ul li{   margin-bottom: 13px; color: #1e88e5;font-weight:bold; width:33.33%; display:inline-block; float:left; background: url(../../uploads/2019/10/checked.png);
+	background-repeat: no-repeat;
+	list-style: none; padding-left:24px; background-position-y: 3px}
+.wpcf7-form{margin-bottom:0}
+.form-khuyen-mai .row-info{display:inline-block; margin-bottom:0; clear:both}
+.form-khuyen-mai .des{    text-align: center;
+	margin-bottom: 15px;
+	color: #0e8200;
+	font-weight: bold;}
+.single-product .accordion-title{display:none}
+.thong-tin-chi-tiet .row-info{   border-bottom: 1px solid #efefef;
+	line-height: 28px;
+	display: inline-block;
+	width: 100%;
+	padding: 6px 10px;
+}.thong-tin-chi-tiet .row-info:nth-child(odd){background:whitesmoke}
+
+.thong-tin-chi-tiet .row-info .left{font-weight:bold; width:30%; float:left; display:inline-block; padding-right:10px}
+.tai-sao{display:block; margin-top:30px}
+.tai-sao h3{text-transform:uppercase; margin-bottom:15px}
+.tai-sao .row-info{clear:both; display:inline-block; width:100%; }
+.tai-sao .row-info .left{width:50%; padding-right:10px; display:inline-block; float:left}
+.tai-sao .row-info .right{width:50%; padding-left:10px; display:inline-block; float:right}
+.tai-sao .row-info p{font-size: 16px;
+	color: #3F51B5;
+	font-weight: bold;
+	background-image: url(../../uploads/2019/10/tick-icon.png);
+	background-repeat: no-repeat;
+	background-size: 29px;
+	padding-left: 55px !important;
+	border: 1px dashed #2196F3;
+	padding: 15px;
+	border-radius: 5px;
+	background-position-x: 10px;
+	background-position-y: 15px;
+	background-color: #eef8ff;}
+.thong-tin-chi-tiet .row-info .right{padding-left:10px; width:70%; float:left; display:inline-block}.section-title-normal span {    margin-right: 15px;
+	padding-bottom: 5px;
+	border-bottom: 0;
+	margin-bottom: 0;
+	font-size: 22px;
+	color: #02055a;
+}.section-title-normal {
+	border-bottom: 2px solid #d20808;
+}
+.thong-tin-chi-tiet{   font-size:16px; margin-top: 0px;
+	display: inline-grid;
+	width: 100%;}.section-title a {
+		display: block;
+		padding-left: 15px;
+		font-size: 15px;
+		margin-left: auto;
+		color: #d20808;
+}.section-title-container {
+	margin-bottom: 5px;
+}
+.banner-section{padding-bottom:0 !important}.product-khuyenmai {
+	text-align: initial;
+	font-size: 13px;
+	color: #0d2bc7;
+	font-weight: 600;
+	background: url(../../uploads/2019/10/km.gif) no-repeat 0 0;
+	padding-left: 38px;
+	margin: 0 8px;
+	background-position-y: 9px;
+}.product_s_desc {
+	text-align: initial;
+	font-size: 12px;
+	padding: 5px 0;
+	margin: 6px 0px;
+	color: #828282;margin-bottom:0;
+	border-top: 1px dashed #ccc;
+	border-right: 1px solid #fff;
+}
+.product-khuyenmai p{margin:0 !important}
+.product-small.box{box-shadow: 0px 0px 3px #00000057;
+	border-radius: 1px;}
+.product-small.box .box-text{padding:10px}
+.product-small.box .box-text ul li{list-style: none;
+	margin-bottom: 0;margin-left: 0;}
+.product-small.box .box-text ul li span.label{font-weight:bold}
+.product-small .box-text ul{margin-bottom:0}
+.product-small.box .product-title{margin-bottom:6px}
+.product-small.box .price span.amount{color:red; font-size:15px;}
+.product-small.box .price{margin:10px 0}
+.product-small.box .product-title a{font-size:14px; font-weight:bold; color:black}.product-info .price {
+	font-size: 20px;
+	margin: 18px 0;    margin-top: 0;
+	font-weight: bolder;
+}
+.related h3{text-align: center;
+	font-size: 22px;
+	letter-spacing: 0;}
+.related{border-top:none}
+.product-info .price span.amount{color:#d20808}
+a.back-to-top{background:gray !important; border:none !important; color:white}
+.footer-section3 .col{padding-bottom:0}.footer-secondary {
+	padding: 0;
+}ul li.bullet-checkmark{padding: 4px 0 4px 25px; border-bottom:none}
+.breadcrumbs {
+	color: #2196F3;
+	font-weight: normal;
+
+}
+.devvn-popup-title, .popup-customer-info-group .devvn-order-btn{background:#d20808}
+span.devvn_title {
+	font-size: 17px;
+	font-weight: bold;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+	display: block;
+}
+span.devvn_price span.amount{color:red}.blog-archive .archive-page-header .large-12 {
+	text-align: left;
+	padding-bottom: 10px;
+}#breadcrumbs {
+	margin-bottom: 10px;
+}.blog-archive .page-title {
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 25px;
+}.blog-archive .post-item .box-text {
+	background: white;
+	padding: 10px;
+}.blog-archive .post-item .post-title {
+	margin: 0;
+	margin-bottom: 10px;
+	font-size: 18px;
+}.box-blog-post .is-divider {
+	display: none;
+}.blog-archive .post-item .from_the_blog_excerpt {
+	font-size: 14px;
+	color: gray;
+}.blog-archive .badge {
+	display: none;
+}.searchform-wrapper input[type='search'] {
+	font-size: 14px;
+	height: 43px;
+	box-shadow: none;
+	border: none;
+}select.resize-select {
+	height: 43px;
+	border: none;
+	background-color: #d60000;
+	color: white;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}.searchform .button.icon {
+	width: 60px;
+	height: 43px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}.blog-archive .searchform-wrapper {
+	margin-bottom: 20px !important;
+}
+.blog-archive{background:#efefef}.blog-single .searchform-wrapper input[type='search'] {
+	border: 1px solid #efefef;
+	margin-bottom: 20px;
+	background: whitesmoke;
+}.blog-single .searchform-wrapper {
+	margin-bottom: 20px;
+}.blog-single .entry-title {
+	font-size: 22px;
+}.is-divider {
+	display: none;
+}.blog-single .entry-header .entry-meta {
+	text-transform: none;
+	font-size: 15px;
+	letter-spacing: 0;
+	color: gray;
+}.entry-content {
+	padding-top: 0;
+	padding-bottom: 0;
+}.blog-single .blog-share {
+	text-align: left;
+}.danh-muc {
+	margin-bottom: 10px;
+	display: block;
+	font-size: 15px;
+}.the-tim-kiem {
+	font-size: 15px;
+}.the-tim-kiem a:hover {
+	text-decoration: underline;
+}.blog-single .large-3 {
+	padding-left: 0;
+}span.widget-title {
+	font-size: 19px;
+	font-weight: normal;
+	letter-spacing: 0;
+	text-transform: none;
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: black;
+}.widget .is-divider {
+	display: none;
+}.widget ul {
+	border: 1px solid #ececec;
+}.recent-blog-posts {
+	padding: 15px 5px;
+}.recent-blog-posts-li .mr-half {
+	margin-right: 8px;
+}.recent-blog-posts-li .badge-inner {
+	border-radius: 99%;
+}.recent-blog-posts a {
+	font-size: 15px;
+	color: black;
+}.recent-blog-posts-li .post_comments {
+	display: none;
+}.recent-blog-posts:hover {
+	background: #f5f5f5;
+}
+.blog-single .entry-content strong{font-weight:bold}
+.blog-single .entry-content h2{font-size:20px}
+.blog-single .entry-content h3{font-size:19px}
+.blog-single .entry-content h4{font-size:18px}
+.blog-single .entry-content h5{font-size:17px}
+.list-post .post-item .badge{display:none}
+.list-post .post-item .post-title{height: 40px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.list-post .post-item a:hover{color:black}
+.tin-tuc-section .col.large-12{padding-bottom:0}
+.list-post .post-item .post-title:hover{color:#1976d2}
+.light-box-form{display:block; width:100%}
+.light-box-form .row-info{display:inline-block; width:100%; clear:both}
+.light-box-form .row-info .left{width:50%; padding-right:10px; display:inline-block; float:left}
+.light-box-form h3{margin-bottom: 0;
+	text-align: center;
+	color: red;
+	text-transform: uppercase;
+}
+.light-box-form .des{    text-align: center;
+	margin-bottom: 15px;
+	font-weight: bold;
+	color: green;}
+.light-box-form textarea {
+	min-height: 54px;
+}
+.lightbox-content{border-radius:5px}
+.light-box-form input, .light-box-form textarea{font-size:14px; box-shadow: none;
+	border-radius: 4px;
+	margin-bottom: 7px;
+}
+.light-box-form .row-info .right{width:50%; padding-left:10px; display:inline-block; float:right}h1.entry-title.mb {
+	margin-bottom: 20px;
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 25px;
+}
+.page-right-sidebar .large-9{border-right:none}
+.page-right-sidebar .large-3{padding-left:0}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+
+	.off-canvas-left.mfp-ready .mfp-content{background:#02055a}.off-canvas:not(.off-canvas-center) .nav-vertical li>a {
+		padding-left: 20px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		text-transform: none;
+		color: white;
+		font-size: 16px;
+	}.nav-sidebar.nav-vertical>li+li {
+		border-top: 1px solid #0f1375;
+		border-bottom: 2px solid #000244;
+	}
+
+	.list-sp .col:nth-child(2n+1), .archive .product-small.col:nth-child(2n+1){padding-bottom: 10px;padding-right:7px}
+	.list-sp .col:nth-child(2n+2), .archive .product-small.col:nth-child(2n+2){padding-bottom: 10px;padding-left:7px}.section-title-normal span{font-size:16px}.section-title a{font-size:13px}
+	.footer-section1 .icon-box h4{font-size:16px}.form-khuyen-mai h3{font-size:22px}
+	.product-khuyenmai {
+		text-align: initial;
+		font-size: 11px;
+		font-weight: normal;
+		padding-left: 38px;
+		margin: 0 !important;
+		background-position-y: 9px;
+	}.product-small.box .box-text {
+		padding: 5px;
+	}.product-small.box .price {
+		margin: 7px 0;
+	}.product-small.box .price span.amount {
+
+		font-size: 13px;
+	}.product_s_desc{font-size:11px}.product-main {
+		padding: 20px 0 0 0;
+	}
+	.single-product .product-gallery {padding-left:5px; padding-bottom:10px; padding-right:5px}.mb-half {
+		margin-bottom: 5px;
+	}.product-info {padding-bottom:0;
+		padding-top: 15px;
+		padding-left: 5px;
+		padding-right: 5px;
+	}.single-product .product-info .product-title {
+		font-size: 18px;
+	}.single-product .thong-so-ky-thuat ul {
+		font-size: 13px;
+	}.single-product .thong-so-ky-thuat ul li {
+		margin-left: 0;
+		list-style: none;
+	}.block-nut-dat-mua .left,.block-nut-dat-mua .right{width:100%; display:block; padding-left:0; padding-right:0}
+	.product-footer .container{padding-left:5px; padding-right:5px}.thong-tin-khuyen-mai .left, .thong-tin-khuyen-mai .right{width:100%}.thong-tin-khuyen-mai ul{margin-bottom:0}.section-form .col{padding:0 !important}.trang-bi-co-ban ul li{    width: 100%;
+		margin-bottom: 0;
+		font-size: 15px;
+		background-size: 12px;
+		background-position-y: 6px;
+		padding-left: 20px;}.single-product .trang-bi-co-ban {
+			margin-top: 30px;
+			margin-bottom: 20px;
+	}.thong-tin-chi-tiet .row-info .left, .thong-tin-chi-tiet .row-info .right{font-size: 14px;width:50%}
+	.tai-sao .row-info .right, .tai-sao .row-info .left{width:100%; padding-left:0; padding-right:0}
+	.tai-sao .row-info p {
+		font-size: 15px; padding:10px}
+	.related .product-small.col:nth-child(2n+1){padding-right:5px}
+	.related .product-small.col:nth-child(2n+2){padding-left:5px}
+	#breadcrumbs{font-size:14px}.list-post .post-item .post-title{height:auto; font-size: 14px;}
+	.list-post .post-item .from_the_blog_excerpt {display:none}
+	#footer .section-form{padding-left:5px; padding-right:5px}.blog-single .large-3{padding-left:15px}.tin-tuc-section .col.large-12 {
+		padding-bottom: 0;
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.list-post .post-item .box-text{padding-top:0;padding-bottom:0}
+	.list-post .post-item .box{display:flex}
+	.list-post .post-item .box-image{width:30%; margin-right:7px}
+	.header-button a{width:100%}
+	.light-box-form .row-info .right, .light-box-form .row-info .left{width:100%; padding-left:0;padding-right:0}
+	.light-box-form .row-info .left{padding-bottom:15px}
+	.page-right-sidebar .large-3{padding-left:15px}h1.entry-title.mb {
+		font-size: 19px;
+	}
+	.light-box-form input[type='submit']{font-size: 13px;
+		text-transform: none;
+		letter-spacing: 0;
+		width: 100%;}
+
+}
